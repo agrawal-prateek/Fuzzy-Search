@@ -10,6 +10,9 @@ Live link: [http://35.200.230.23:8081](http://35.200.230.23:8081)
 - Flask
 - Jninja2
 
+#### Database
+- SQlite3
+
 #### Install Dependencies
 
 - Install [Python3](http://python.org)
@@ -18,6 +21,7 @@ Live link: [http://35.200.230.23:8081](http://35.200.230.23:8081)
 
     pip install -r requirements.txt
 
+**Note:** `Sqlite3` already comes included with `Cpython`
 
 #### Running Application
 
