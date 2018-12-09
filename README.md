@@ -2,8 +2,6 @@
 
 Search any word `Fuzzily` using Web App
 
-Live link: [http://35.200.230.23:8081](http://35.200.230.23:8081)
-
 #### Requirements
 
 - Python3
@@ -36,9 +34,17 @@ After Starting the server, Open Browser and Navigate to the following URL
 Port for running can be changed in `app.py` file
 
 
-For any Query, feel free and contact me
 
-### Prateek Agrawal
-prateekagrawal89760@gmail.com
 
-[Website](http://agrawal-prateek.github.io) | [LinkedIn](https://www.linkedin.com/in/agrawal-prateek) | [+91-7464847884](tel://+917464847884)
+For any query, feel free and contact me
+
+
+**Prateek Agrawal**  
+prateekagrawal89760@gmail.com  
+[Website][400] | [LinkedIn][500] | (+91) 7464847884
+
+#### Thanks for Reading
+
+
+ [400]: http://agrawalprateek.me
+ [500]: https://www.linkedin.com/in/agrawal-prateek
